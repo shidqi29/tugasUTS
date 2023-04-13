@@ -29,11 +29,11 @@ class User {
   factory User.dummy() {
     return User(
       id: 001,
-      name: "Diar Nur Rizky",
-      username: "diarn",
-      email: "diarn@email.com",
+      name: "Kelompok 1",
+      username: "kelompok1",
+      email: "kelompok1@email.com",
       profilePhoto:
-          "https://cdn.idntimes.com/content-images/community/2020/09/104967619-2451390651819718-4934284928595035666-n-2fc82b7325949c7d003c1c58e17d48b7.jpg",
+          "https://th.bing.com/th/id/OIP.S0Rl8BNN7u2UvA8CyiIWPgHaIU?w=184&h=207&c=7&r=0&o=5&pid=1.7",
       phoneNumber: "085123456789",
     );
   }
